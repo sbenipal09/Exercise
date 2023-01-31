@@ -5,7 +5,8 @@ import java.util.Comparator;
 /**
  * This class is to provide comparison by name support
  *
- * @author Paul Bonenfant
+ * @author Pau
+ * l Bonenfant
  */
 public class StudentByNameComparator implements Comparator<Student>{
 
