@@ -11,6 +11,7 @@ import java.util.Scanner;
  * @author Paul Bonenfant
  */
 public class ComparableStudent {
+    /*I changed it using Github*/
 
     /**
      * @param args the command line arguments
